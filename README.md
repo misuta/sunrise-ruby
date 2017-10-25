@@ -9,7 +9,7 @@ Blockchain proof of concept in ruby
 Blockchain was first defined in the source code for Bitcoin; A peer-to-peer protocol for transfer value over internet.
 Both were created by Satoshi Nakamoto ( _**et al.?**_). Who published the whitepaper **"[Bitcoin](https://bitcoin.org/bitcoin.pdf): A Peer-to-Peer Electronic Cash System"** on Octorber 2008. In 2009 the Bitcoin network began.
 
-# How does blockchain works?
+# How does blockchain work?
 
 *Grosso modo* a blockchain is set of blocks _**linked**_ with each other. Each block containing data. Since the blockchain is a distributed ledger, the recods keeping on it cannot be modified. With this in mind there are three components that are the Soul of this process.
 
