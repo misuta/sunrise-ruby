@@ -23,7 +23,7 @@ nonce         | is a random number that is added to the calculation of the finge
 
 ## What does this Proof of Concept do?
 
-This is a simple Proof of concept that create an blockchain implementation in ruby. The Blockchain used for Bitcoin and other cryptocurrencies and / or blockchain applications are more complex and involve other concepts (like concensus, peer-to-peer algorithms, etc.) #**This is just a basic proof of concept**
+This is a simple Proof of concept that create a blockchain implementation in ruby. The Blockchain used for Bitcoin and other cryptocurrencies and / or blockchain applications are more complex and involve other concepts (like concensus, peer-to-peer algorithms, etc.) #**This is just a basic proof of concept**
 
 # Use
 a simple '''ruby blockchain.rb''' would do the trick. In order to see the change of hashes you can play with the data
