@@ -63,6 +63,11 @@ class Blockchain
   end
 end
 
+=begin
+this part is just create an instance of the blockchain
+and some blocks in order to proof the concept.
+changing values will change the sha256 hashes
+=end
 mizutacoin = Blockchain.new()
 puts "mining block "
 mizutacoin.addBlock(Block.new(1, "26/11/2017", {amount: 4}))
