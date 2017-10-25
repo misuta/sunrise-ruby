@@ -26,5 +26,5 @@ nonce         | is a random number that is added to the calculation of the finge
 This is a simple Proof of concept that create a blockchain implementation in ruby. The Blockchain used for Bitcoin and other cryptocurrencies and / or blockchain applications are more complex and involve other concepts (like concensus, peer-to-peer algorithms, etc.) #**This is just a basic proof of concept**
 
 # Use
-a simple '''ruby blockchain.rb''' would do the trick. In order to see the change of hashes you can play with the data
-if you use **irb** you can import the file and generate interactively blocks and change their value, this way you can check how changin a value in one block would make invalid the chain.
+a simple `ruby blockchain.rb` would do the trick. In order to see the change of hashes you can play with the data
+if you use **irb** you can import the file and generate interactively blocks and change their value, this way you can check how changing a value in one block would make invalid the chain.
